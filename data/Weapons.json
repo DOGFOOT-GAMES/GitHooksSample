@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"animationId":0,"description":"걸레","etypeId":1,"traits":[],"iconIndex":108,"name":"걸레","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":2,"animationId":0,"description":"먼지털이","etypeId":1,"traits":[],"iconIndex":114,"name":"먼지털이","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":3,"animationId":0,"description":"빗자루","etypeId":1,"traits":[],"iconIndex":105,"name":"빗자루","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
