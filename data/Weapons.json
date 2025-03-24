@@ -1,6 +1,69 @@
 [
-null,
-{"id":1,"animationId":0,"description":"올이 군데군데 나간 걸레다.","etypeId":1,"traits":[],"iconIndex":108,"name":"낡은 걸레","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
-{"id":2,"animationId":0,"description":"털이 많이 빠진 먼지털이다.","etypeId":1,"traits":[],"iconIndex":114,"name":"플라스틱 먼지털이","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":2},
-{"id":3,"animationId":0,"description":"타고 날아갈 수 있을까?","etypeId":1,"traits":[],"iconIndex":105,"name":"나무 빗자루","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":3}
+  null,
+  {
+    "id": 1,
+    "animationId": 0,
+    "description": "올이 군데군데 나간 걸레다.",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 108,
+    "name": "낡은 걸레",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 1
+  },
+  {
+    "id": 2,
+    "animationId": 0,
+    "description": "털이 많이 빠진 먼지털이다.",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 114,
+    "name": "플라스틱 먼지털이",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 2
+  },
+  {
+    "id": 3,
+    "animationId": 0,
+    "description": "타고 날아갈 수 있을까?",
+    "etypeId": 1,
+    "traits": [],
+    "iconIndex": 105,
+    "name": "나무 빗자루",
+    "note": "",
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "price": 0,
+    "wtypeId": 3
+  }
 ]

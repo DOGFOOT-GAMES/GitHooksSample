@@ -1,4 +1,29 @@
 [
-null,
-{"id":1,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"당신의 마음을 열 수 있나요~","effects":[],"hitType":0,"iconIndex":224,"itypeId":1,"name":"열쇠","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0}
+  null,
+  {
+    "id": 1,
+    "animationId": 0,
+    "consumable": true,
+    "damage": {
+      "critical": false,
+      "elementId": 0,
+      "formula": "0",
+      "type": 0,
+      "variance": 20
+    },
+    "description": "당신의 마음을 열 수 있나요~",
+    "effects": [],
+    "hitType": 0,
+    "iconIndex": 224,
+    "itypeId": 1,
+    "name": "열쇠",
+    "note": "",
+    "occasion": 3,
+    "price": 0,
+    "repeats": 1,
+    "scope": 0,
+    "speed": 0,
+    "successRate": 100,
+    "tpGain": 0
+  }
 ]
