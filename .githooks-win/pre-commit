@@ -1,0 +1,10 @@
+@echo off
+python\python.exe tools\prettify_json.py
+set STATUS=%ERRORLEVEL%
+
+if not %STATUS%==0 (
+    echo JSON prettify failed. Commit aborted.
+    exit /b 1
+)
+
+git add data\*.json
