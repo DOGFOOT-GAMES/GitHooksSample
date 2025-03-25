@@ -6,9 +6,18 @@ set "GREEN=0A"
 
 if not exist "tools\python\python.exe" (
     color %RED%
-    echo python\python.exe not found. Please ensure it exists in the current directory.
+    echo tools\python\python.exe not found. Please ensure it exists in the current directory.
     pause
     exit /b 1
+)
+
+where git >nul 2>&1
+if %errorlevel%==0 (
+    color %GREEN%
+    git config core.hooksPath .githooks-win
+    echo Git hooks path successfully configured to .githooks-win
+    pause
+    exit /b 0
 )
 
 set "USERNAME=%USERNAME%"
