@@ -1,5 +1,5 @@
 @echo off
-python\python.exe tools\prettify_json.py
+tools\python\python.exe tools\prettify_json.py
 set STATUS=%ERRORLEVEL%
 
 if not %STATUS%==0 (

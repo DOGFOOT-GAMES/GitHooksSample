@@ -10,7 +10,7 @@ if errorlevel 1 (
     exit /b 1
 )
 
-if not exist "python\python.exe" (
+if not exist "tools\python\python.exe" (
     color %RED%
     echo python\python.exe not found. Please ensure it exists in the current directory.
     pause
