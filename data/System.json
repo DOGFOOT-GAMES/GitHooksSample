@@ -322,7 +322,7 @@
   ],
   "startMapId": 1,
   "startX": 8,
-  "startY": 3,
+  "startY": 5,
   "switches": [
     "",
     "",
@@ -538,7 +538,7 @@
     "",
     ""
   ],
-  "versionId": 45338057,
+  "versionId": 12337641,
   "victoryMe": {
     "name": "",
     "pan": 0,
@@ -566,5 +566,5 @@
   "iconSize": 32,
   "optSplashScreen": false,
   "optMessageSkip": true,
-  "tileSize": 48
+  "tileSize": 32
 }
