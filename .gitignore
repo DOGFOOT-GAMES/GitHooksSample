@@ -35,4 +35,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # Embedded Python
-tools/python/
+!tools/python/**
